@@ -1,3 +1,4 @@
-dash==1.0.0
+dash
 gunicorn>=20.1.0
 pandas
+Flask
